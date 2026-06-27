@@ -65,7 +65,7 @@ The project focuses on building a semantic and accessible website while applying
 1. Clone or download this repository.
 
 ```bash
-git clone <https://github.com/aditnurdiansyah/personal-portfolio>
+git clone https://github.com/aditnurdiansyah/personal-portfolio
 ```
 
 2. Navigate to the project folder.
