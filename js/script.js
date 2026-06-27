@@ -6,8 +6,8 @@ if (theme) {
 }
 
 function toggleTheme() {
-  const sunIcon = document.getElementById('sun_icon');
-  const moonIcon = document.getElementById('moon_icon');
+  const sunIcon = document.getElementById('sun-icon');
+  const moonIcon = document.getElementById('moon-icon');
   const body = document.body;
   const theme = body.getAttribute('data-theme');
   body.setAttribute('data-theme', theme === 'dark' ? 'light' : 'dark');
